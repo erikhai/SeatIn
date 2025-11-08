@@ -1,4 +1,4 @@
-# SeatIn — Event Ticketing System
+# SeatIn — Event Ticketing Systemx
 ### **ELEC5619_Practical01_Group_3**
 
 ## Team Members
